@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20236c4f-098d-4205-a66f-c7b07c7dcb05</dc:identifier>
+        <dc:title>ছেলেবেলা</dc:title>
+        <dc:creator opf:file-as="ঠাকুর, রবীন্দ্রনাথ" opf:role="aut">রবীন্দ্রনাথ ঠাকুর</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-05T18:00:00+00:00</dc:date>
+        <dc:publisher>Kindle Bangla</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kindle Bangla</dc:subject>
+        <meta name="calibre:timestamp" content="2026-04-03T16:53:36.842976+00:00"/>
+        <meta name="calibre:title_sort" content="ছেলেবেলা"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="ছেলেবেলা - রবীন্দ্রনাথ ঠাকুর.jpg"/>
+    </guide>
+</package>

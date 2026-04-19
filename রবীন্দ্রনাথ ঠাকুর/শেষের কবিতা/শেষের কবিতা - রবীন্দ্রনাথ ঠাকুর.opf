@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a68d7af8-05bb-432a-87fe-32f138525968</dc:identifier>
+        <dc:title>শেষের কবিতা</dc:title>
+        <dc:creator opf:file-as="ঠাকুর, রবীন্দ্রনাথ" opf:role="aut">রবীন্দ্রনাথ ঠাকুর</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-12T18:00:00+00:00</dc:date>
+        <dc:language>ben</dc:language>
+        <meta name="calibre:timestamp" content="2026-03-25T10:37:08+00:00"/>
+        <meta name="calibre:title_sort" content="শেষের কবিতা"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="শেষের কবিতা - রবীন্দ্রনাথ ঠাকুর.jpg"/>
+    </guide>
+</package>
