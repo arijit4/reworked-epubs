@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d0474d1-40a6-4f56-b6c8-7b0d4cb347d6</dc:identifier>
+        <dc:title>বাংলাদেশ : এ লিগ্যাসি অব ব্লাড</dc:title>
+        <dc:creator opf:file-as="ম্যাসকারেনহাস, অ্যান্থনী" opf:role="aut">অ্যান্থনী ম্যাসকারেনহাস</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-10-13T18:00:00+00:00</dc:date>
+        <dc:publisher>Kindle Bangla</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kindle Bangla</dc:subject>
+        <meta name="calibre:timestamp" content="2026-05-14T14:50:00.990735+00:00"/>
+        <meta name="calibre:title_sort" content="বাংলাদেশ : এ লিগ্যাসি অব ব্লাড"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="বাংলাদেশ _ এ লিগ্যাসি অব ব্লাড - অ্যান্থনী ম্যাসকারেনহাস.jpg"/>
+    </guide>
+</package>
