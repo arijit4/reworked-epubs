@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1572d64c-d3ca-4362-ae33-95ccca973110</dc:identifier>
+        <dc:title>শুভ্র সমগ্র</dc:title>
+        <dc:creator opf:file-as="আহমেদ, হুমায়ূন" opf:role="aut">হুমায়ূন আহমেদ</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-23T15:41:38.225696+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;দারুচিনি দ্বীপ (১৯৯১) &lt;br&gt;মেঘের ছায়া (১৯৯৩) &lt;br&gt;রূপালী দ্বীপ (১৯৯৪) &lt;br&gt;শুভ্র (২০০০) &lt;br&gt;এই শুভ্র এই (২০০৩) &lt;br&gt;শুভ্র গেছে বনে (২০১০) &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Arijit Proofings</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">4e7182be-a7c4-455e-8388-2bb7bfa68515</dc:identifier>
+        <dc:language>ben</dc:language>
+        <meta name="calibre:timestamp" content="2026-07-04T15:25:13.339461+00:00"/>
+        <meta name="calibre:title_sort" content="শুভ্র সমগ্র"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="শুভ্র সমগ্র - হুমায়ূন আহমেদ.jpg"/>
+    </guide>
+</package>
